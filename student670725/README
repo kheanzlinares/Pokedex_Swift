@@ -1,0 +1,7 @@
+Optional implemented features:
+
+• Fully implemented bottom segments from the detail page (about / stats / evolutions).
+
+• Create a nice app icon
+
+• Implement pagination to load more Pokémon when the user enters the bottom of the list.
